@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="info.cukes:cucumber-junit:1.1.1" type="repository">
+    <properties maven-id="info.cukes:cucumber-junit:1.1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-junit/1.1.1/cucumber-junit-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.1.1/cucumber-core-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-jvm-deps/1.0.3/cucumber-jvm-deps-1.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/gherkin/2.11.5/gherkin-2.11.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-junit/1.1.1/cucumber-junit-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

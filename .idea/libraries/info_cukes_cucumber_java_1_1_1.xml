@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="info.cukes:cucumber-java:1.1.1" type="repository">
+    <properties maven-id="info.cukes:cucumber-java:1.1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-java/1.1.1/cucumber-java-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.1.1/cucumber-core-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-jvm-deps/1.0.3/cucumber-jvm-deps-1.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/gherkin/2.11.5/gherkin-2.11.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
